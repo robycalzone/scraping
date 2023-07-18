@@ -1,0 +1,3 @@
+import selectolax
+
+print('hello')
